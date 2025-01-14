@@ -1,1 +1,0 @@
-For personal Python learning
